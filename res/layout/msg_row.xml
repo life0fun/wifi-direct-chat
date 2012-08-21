@@ -1,0 +1,23 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:paddingLeft="5dip"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<!-- A layout to display contact information with a checkbox at the end -->
+
+	<TextView android:id="@+id/msg_row" 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:gravity="center_vertical"
+		android:orientation="vertical"
+		android:paddingLeft="8dip"
+		android:paddingRight="8dip"
+		android:textSize="12sp" />
+	
+	<CheckBox android:id="@+id/selectButton"
+		android:focusable="false"
+		android:layout_width="60dip"
+		android:layout_height="76dip"
+		android:layout_gravity="center_vertical"/>
+</LinearLayout>
+

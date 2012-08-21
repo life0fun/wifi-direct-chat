@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/basic_menu">
+        <item
+            android:id="@+id/atn_direct_enable"
+            android:icon="@drawable/ic_action_on_off"
+            android:title="@string/enable_p2p_button"
+            android:showAsAction="ifRoom|withText" />
+
+        <item
+            android:id="@+id/atn_direct_discover"
+            android:icon="@drawable/ic_action_discover"
+            android:title="@string/discover_peers_button"
+            android:showAsAction="ifRoom|withText" />
+    </group>
+
+    <group android:id="@+id/help_menu">
+        <item
+            android:id="@+id/disconnect"
+            android:icon="@drawable/ic_action_on_off"
+            android:title="@string/disconnect"
+            android:showAsAction="never" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_action_discover"
+            android:title="@string/about"
+            android:showAsAction="never" />
+
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_action_on_off"
+            android:title="@string/help"
+            android:showAsAction="never" />
+    </group>
+</menu>

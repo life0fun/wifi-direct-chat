@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#FF000000</color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="row_background">#ff00ffff</color>
+    <color name="my_msg_background">#FF494949</color>
+    <color name="in_msg_background">#FF0D4C63</color>
+</resources>

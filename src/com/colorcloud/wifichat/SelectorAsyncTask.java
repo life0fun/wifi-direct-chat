@@ -17,6 +17,11 @@ import android.os.Message;
 import android.util.Log;
 
 /**
+ * AsyncTask is only for UI thread to submit work(impl inside doInbackground) to executor.
+ * The threading rule of AsyncTask: create/load/execute by UI thread only _ONCE_. can be callabled.
+ */
+
+/**
  * the selector only monitors OP_CONNECT and OP_READ. Do not monitor OP_WRITE as a channel is always writable.
  * Upon event out, either accept a connection, or read the data from the channel.
  * The writing to the channel is done inside the connection service main thread. 

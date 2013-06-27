@@ -6,7 +6,6 @@
 /Users/e51141/workspace/wifichat/res/drawable-hdpi/ic_action_discover.png \
 /Users/e51141/workspace/wifichat/res/drawable-hdpi/ic_action_on_off.png \
 /Users/e51141/workspace/wifichat/res/drawable-hdpi/ic_launcher.png \
-/Users/e51141/workspace/wifichat/res/drawable-hdpi/icon.png \
 /Users/e51141/workspace/wifichat/res/drawable-ldpi/ic_action_discover.png \
 /Users/e51141/workspace/wifichat/res/drawable-ldpi/ic_action_on_off.png \
 /Users/e51141/workspace/wifichat/res/drawable-ldpi/ic_launcher.png \
@@ -39,7 +38,6 @@
 /Users/e51141/workspace/wifichat/bin/res/drawable-hdpi/ic_action_discover.png \
 /Users/e51141/workspace/wifichat/bin/res/drawable-hdpi/ic_action_on_off.png \
 /Users/e51141/workspace/wifichat/bin/res/drawable-hdpi/ic_launcher.png \
-/Users/e51141/workspace/wifichat/bin/res/drawable-hdpi/icon.png \
 /Users/e51141/workspace/wifichat/bin/res/drawable-ldpi/ic_action_discover.png \
 /Users/e51141/workspace/wifichat/bin/res/drawable-ldpi/ic_action_on_off.png \
 /Users/e51141/workspace/wifichat/bin/res/drawable-ldpi/ic_launcher.png \
